@@ -1,2 +1,0 @@
-﻿# My first readme This is a project on how to setup your Git and Github account and your personal token
-## The following include creating a file directory on your computer called *alx-pre_course* and moving it to your github account reprository called *alx-pre_course.git*
